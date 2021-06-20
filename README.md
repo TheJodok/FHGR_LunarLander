@@ -1,5 +1,6 @@
 # NEAT Lunar Lander
 Lunar Lander from Open AI Gym trained with the NEAT Algorithm.
+Wurde in Zusammenarbeit mit https://github.com/YahArt/ erstellt.
 
 ## Prerequisites
 * Python Version >= 3.x installed
@@ -44,3 +45,8 @@ In order to run a custom winner all that needs to be done is modifing the path t
 ![Sample Image Two](./documentation/images/sample-image-02.png)
 ![Sample Image Three](./documentation/images/sample-image-03.png)
 
+# Modul Details
+In dieser Veranstaltung wird ein Einblick in das Thema Data Science gegeben und dabei Fähigkeiten rund um Aufbereitung, Analyse und Darstellung von Daten vertieft. Als Werkzeuge werden dabei bekannte Libraries in Python genutzt (Numpy, Pandas, Matplotlib, Scipy). Darüber hinaus wird ein Überblick über das Thema Machine Learning gegeben und eine Reihe von gegebenen bekannten Machine-Learning-Verfahren an Beispieldatensätzen angewendet.
+
+Bei diesem Projekt handelt es sich um die Semesterarbeit für das Modul Data Science und Machine Learning. Ziel des Projekts war es, ein Machine-Learning-Verfahren auf einen
+Datensatz Ihrer Wahl anzuwenden.
